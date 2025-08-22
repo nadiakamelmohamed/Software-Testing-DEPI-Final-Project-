@@ -14,9 +14,11 @@
 
 ## 💡 Project Idea
 1- SauceDemo ( Manual & Automation )
+
 https://www.saucedemo.com/inventory.html
 
 2- Restful Booker ( API )
+
 https://restful-booker.herokuapp.com/apidoc/index.html#api-Booking-GetBookingshttps://restful-booker.herokuapp.com/apidoc/index.html
 
 ---
