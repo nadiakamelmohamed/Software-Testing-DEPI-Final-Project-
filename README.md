@@ -4,7 +4,7 @@
 ---
 
 ## 👥 Team Members
-- Mahmoud Mosaad Iraqy  
+- Mahmoud Mosad EraKy  
 - Ismail Magdy Ismail  
 - Jessica Emad Khalil  
 - Omnia Ibrahim Awaad  
