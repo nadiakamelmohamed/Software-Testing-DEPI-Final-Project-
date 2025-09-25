@@ -5,7 +5,7 @@
 ---
 
 ## 👥 Team Members
-- Mahmoud Mosad EraKy  (Team Leader) 
+- Mahmoud Mosad EraKy    (Team Leader) 
 - Ismail Magdy Ismail  
 - Jessica Emad Khalil  
 - Omnia Ibrahim Awaad  
