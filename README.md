@@ -5,7 +5,7 @@
 ---
 
 ## 👥 Team Members
-- Mahmoud Mosad EraKy  
+- Mahmoud Mosad EraKy  (Team Leader) 
 - Ismail Magdy Ismail  
 - Jessica Emad Khalil  
 - Omnia Ibrahim Awaad  
@@ -38,11 +38,20 @@ The project demonstrates how manual testing ensures correctness in initial phase
 ---
 
 ## 🎯 Roles
-- Mahmoud Mosaad Iraqy — (Empty)  
-- Ismail Magdy Ismail — (Empty)  
-- Jessica Emad Khalil — (Empty)  
-- Omnia Ibrahim Awaad — (Empty)  
-- Nadia Kamel Mohamed — (Empty)  
+- Mahmoud Mosad Eraky :
+Manual Testing (SauceDemo) → 4 Test Cases + (Login Valid + Invalid) + Screenshots
+
+- Ismail Magdy Ismail :
+Manual Testing (SauceDemo) → 4 Test Cases + (Cart + Checkout + Logout) + Screenshots
+
+- Jessica Emad Khalil :
+Automation Testing (SauceDemo) → 2 Scripts (Login Valid + Invalid) + Evidence (Screenshots/Logs)
+
+- Omnia Ibrahim Awaad :
+Automation Testing (SauceDemo) → 3 Scripts (Cart + Checkout + Logout) + Evidence (Screenshots/Logs)
+
+- Nadia Kamel Mohamed :
+API Testing (Restful Booker) → CRUD Requests by Postman (Create, Get, Update, Delete) + Screenshots/Collection  
 
 ---
 
