@@ -1,0 +1,10 @@
+base\BaseTest.class
+pages\ProductsPage.class
+tests\ExcelReader.class
+pages\LoginPage.class
+tests\LoginTests.class
+tests\SortingTests.class
+tests\NegativeCheckoutTest.class
+tests\RemoveFromCartTest.class
+tests\CartAndCheckoutTest.class
+tests\ProductTests.class
