@@ -1,0 +1,48 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SauceDemo Unified Suite" verbose="1" parallel="tests" thread-count="2">
+
+    <!-- Login & Products Tests - Chrome -->
+    <test name="Chrome - Login &amp; Products Tests">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="doLogin" value="false"/>
+        <classes>
+            <class name="tests.LoginTests"/>
+            <class name="tests.ProductTests"/>
+            <class name="tests.SortingTests"/>
+        </classes>
+    </test>
+
+    <!-- Login & Products Tests - Firefox -->
+    <test name="Firefox - Login &amp; Products Tests">
+        <parameter name="browser" value="firefox"/>
+        <parameter name="doLogin" value="false"/>
+        <classes>
+            <class name="tests.LoginTests"/>
+            <class name="tests.ProductTests"/>
+            <class name="tests.SortingTests"/>
+        </classes>
+    </test>
+
+    <!-- Cart & Checkout Tests - Chrome -->
+    <test name="Chrome - Cart &amp; Checkout Tests">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="doLogin" value="true"/>
+        <classes>
+            <class name="tests.CartAndCheckoutTest"/>
+            <class name="tests.NegativeCheckoutTest"/>
+            <class name="tests.RemoveFromCartTest"/>
+        </classes>
+    </test>
+
+    <!-- Cart & Checkout Tests - Firefox -->
+    <test name="Firefox - Cart &amp; Checkout Tests">
+        <parameter name="browser" value="firefox"/>
+        <parameter name="doLogin" value="true"/>
+        <classes>
+            <class name="tests.CartAndCheckoutTest"/>
+            <class name="tests.NegativeCheckoutTest"/>
+            <class name="tests.RemoveFromCartTest"/>
+        </classes>
+    </test>
+
+</suite>
